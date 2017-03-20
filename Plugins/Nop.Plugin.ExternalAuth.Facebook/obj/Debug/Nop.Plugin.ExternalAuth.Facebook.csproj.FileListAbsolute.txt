@@ -1,0 +1,14 @@
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

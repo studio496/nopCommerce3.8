@@ -1,0 +1,11 @@
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csproj.App.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb

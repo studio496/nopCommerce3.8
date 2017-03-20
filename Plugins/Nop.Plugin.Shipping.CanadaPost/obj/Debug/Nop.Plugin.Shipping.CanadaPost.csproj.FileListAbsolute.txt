@@ -1,0 +1,10 @@
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Views\ShippingCanadaPost\Configure.cshtml
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\web.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb

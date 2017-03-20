@@ -1,0 +1,12 @@
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csproj.App.config
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+W:\eFoodhandlers\nopCommerce\3.80\nopCommerce_3.80_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
